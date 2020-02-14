@@ -46,4 +46,5 @@ describe('emoji reducer', () => {
 
     expect(newState).toEqual({ studies: 1 });
   });
+  
 });
